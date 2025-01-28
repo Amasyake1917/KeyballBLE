@@ -60,7 +60,7 @@
 &kp Q      &kp L           &kp U           &kp F                 &kp LBKT                                                                     &kp RBKT                &kp W              &kp R            &kp Y            &kp P
 &kp E      &mt LEFT_WIN I  &mt LEFT_ALT A  &mt LEFT_SHIFT O      &kp MINUS                   &kp LEFT_PARENTHESIS      &kp RIGHT_PARENTHESIS  &kp K                   &mt RIGHT_SHIFT T  &mt RIGHT_ALT N  &mt RIGHT_WIN S  &kp H
 &kp Z      &kp X           &kp C           &kp V                 &kp COMMA                   &kp LESS_THAN             &kp GREATER_THAN       &kp G                   &kp D              &kp M            &kp J            &kp B
-&kp LC(A)  &kp LS(HOME)    &kp LS(END)     &lt_to_layer_0 5 DEL  &lt_to_layer_0 2 BACKSPACE  &mt LCTRL TAB             &mt RCTRL ENTER        &lt_to_layer_0 3 SPACE                                                       &lt 6 ESCAPE
+&kp RC(A)  &kp LS(HOME)    &kp LS(END)     &lt_to_layer_0 5 DEL  &lt_to_layer_0 2 BACKSPACE  &mt LCTRL TAB             &mt RCTRL ENTER        &lt_to_layer_0 3 SPACE                                                       &lt 6 ESCAPE
             >;
 
             sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
